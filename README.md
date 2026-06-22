@@ -1,5 +1,7 @@
 # TypeScript Lesson
 
+Teste para pull request.
+
 Este repositório contém um projeto de estudos desenvolvido com **TypeScript** e **Angular**, com o objetivo de praticar conceitos fundamentais da linguagem, organização de código e criação de aplicações front-end.
 
 O projeto foi gerado com **Angular CLI** e pode ser utilizado como base para executar exemplos, testar funcionalidades e evoluir conhecimentos em TypeScript, Angular, componentes, serviços e estruturação de projetos web.
